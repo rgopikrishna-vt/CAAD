@@ -31,7 +31,6 @@ The following trained models are availables in `~/trainedmodels`.
 
 # Evaluation
 
-## Command template
 ```
 python test.py {dataset} {model}
 ```
@@ -51,8 +50,6 @@ By default evaluation script is set to run on the trained models. If that needs 
 
 
 # Training
-
-## Command template
 
 ```
 python train_caad.py {dataset}
