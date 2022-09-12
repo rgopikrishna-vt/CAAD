@@ -1,4 +1,4 @@
-# Detecting Irregular Network Activity with Adversarial Learning & Expert Feedback
+# Detecting Irregular Network Activity with Adversarial Learning and Expert Feedback
 
 # Required packages
 
