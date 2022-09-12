@@ -54,7 +54,7 @@ By default evaluation script is set to run on the trained models. If that needs 
 ```
 python train_caad.py {dataset}
 ```
-where dataset can take values 'ltw1', 'ltw2', 'stw1','mnist' 
+where dataset can take values 'ltw1', 'ltw2', 'stw1', 'mnist' 
 ```
 python train_caad-uq.py {dataset}
 ```
