@@ -13,10 +13,10 @@ matplotlib==3.3.1
 scikit_learn==1.0.2
 skimage==0.0
 
-# Step by step instructions to execute trained models
+# Instructions
 
 1. Extract dataset of choice and place in `~/data`.
-3. Follow the evaluation step below.
+2. To evaluate trained models, follow the evaluation step.
 
 # Datasets
 
