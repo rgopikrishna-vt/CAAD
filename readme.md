@@ -31,8 +31,10 @@ The following trained models are availables in `~/trainedmodels`.
 
 # Evaluation
 
-Command template- 
+Command template
+```
 python test.py {dataset} {model}
+```
 
 where
 - dataset can take values 'ltw1','ltw2','stw1','mnist' 
@@ -41,23 +43,34 @@ where
     * 'caad-uq' for datasets 'ltw1' and 'stw1'
     * 'caad-ef' for datasets 'ltw1' and 'stw1'
 
-Example-
+Example
+```
 python test.py stw1 caad
-
+```
 By default evaluation script is set to run on the trained models. If that needs to be change, place affix your model path at line 66 in test.py.
 
 
 # Training
 
 Command template-
-* python train_caad.py {dataset}
-   where
+
+1.
+```
+python train_caad.py {dataset}
+```
+where
    - dataset can take values 'ltw1','ltw2','stw1','mnist' 
-* python train_caad-uq.py {dataset}
-   where
+1. 
+```
+python train_caad-uq.py {dataset}
+```
+where
    - dataset can take values 'ltw1','stw1'
-* python train_caad-ef.py {dataset} {modelpath}
-   where
+1.
+```
+python train_caad-ef.py {dataset} {modelpath}
+```
+where
    - dataset can take values 'ltw1','stw1'
    - modelpath is where you find the output of the caad-uq model.
 
