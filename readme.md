@@ -59,7 +59,6 @@ where dataset can take values 'ltw1', 'ltw2', 'stw1', 'mnist'
 python train_caad-uq.py {dataset}
 ```
 where dataset can take values 'ltw1', 'stw1'
-1.
 ```
 python train_caad-ef.py {dataset} {modelpath}
 ```
