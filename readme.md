@@ -50,15 +50,15 @@ By default evaluation script is set to run on the trained models. If that needs 
 # Training
 
 Command template-
-1. python train_caad.py {dataset}
-where
-- dataset can take values 'ltw1','ltw2','stw1','mnist' 
-2. python train_caad-uq.py {dataset}
-where
-- dataset can take values 'ltw1','stw1'
-3. python train_caad-ef.py {dataset} {modelpath}
-where
-- dataset can take values 'ltw1','stw1'
-- modelpath is where you find the output of the caad-uq model.
+* python train_caad.py {dataset}
+   where
+   - dataset can take values 'ltw1','ltw2','stw1','mnist' 
+* python train_caad-uq.py {dataset}
+   where
+   - dataset can take values 'ltw1','stw1'
+* python train_caad-ef.py {dataset} {modelpath}
+   where
+   - dataset can take values 'ltw1','stw1'
+   - modelpath is where you find the output of the caad-uq model.
 
 Example- python train_caad-ef.py ltw1 /home/rgopikrishna/code/logs/caad-uq/
