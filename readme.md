@@ -2,16 +2,16 @@
 
 # Required packages
 
-tqdm==4.57.0
-torch==1.3.1
-numpy==1.19.2
-scipy==1.5.2
-imageio==2.9.0
-scikit_image==0.17.2
-pandas==1.1.3
-matplotlib==3.3.1
-scikit_learn==1.0.2
-skimage==0.0
+tqdm==4.57.0<br>
+torch==1.3.1<br>
+numpy==1.19.2<br>
+scipy==1.5.2<br>
+imageio==2.9.0<br>
+scikit_image==0.17.2<br>
+pandas==1.1.3<br>
+matplotlib==3.3.1<br>
+scikit_learn==1.0.2<br>
+skimage==0.0<br>
 
 # Instructions
 
