@@ -1,18 +1,5 @@
 # Detecting Irregular Network Activity with Adversarial Learning and Expert Feedback
 
-# Required packages
-
-tqdm==4.57.0<br>
-torch==1.3.1<br>
-numpy==1.19.2<br>
-scipy==1.5.2<br>
-imageio==2.9.0<br>
-scikit_image==0.17.2<br>
-pandas==1.1.3<br>
-matplotlib==3.3.1<br>
-scikit_learn==1.0.2<br>
-skimage==0.0<br>
-
 # Instructions
 
 1. Extract dataset of choice and place in `~/data`.
