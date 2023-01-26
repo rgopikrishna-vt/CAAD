@@ -7,7 +7,7 @@
 
 # Datasets
 
-Please download the datasets from this [link]([/guides/content/editing-an-existing-page](https://drive.google.com/drive/folders/1YXxv-OwIms0olIOxDI0530U8_Tu1FHT5?usp=sharing)) and unzip them inside `~/data`.
+Please download the datasets from this [link](https://drive.google.com/drive/folders/1YXxv-OwIms0olIOxDI0530U8_Tu1FHT5?usp=sharing) and unzip them inside `~/data`.
 
 # Trained Models
 
